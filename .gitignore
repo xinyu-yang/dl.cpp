@@ -1,6 +1,7 @@
-CMakeFiles/
+Makefile
 CMakeCache.txt
 cmake_install.cmake
+CMakeFiles/
 **/__pycache__/
 *.log
 *.swp
